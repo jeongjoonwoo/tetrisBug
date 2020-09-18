@@ -34,7 +34,7 @@
 
 ## 6. Iblock rotate 에러
 
-![block](image/version-0.0.1/Iblock-rotate.png)
+![block](image/version-0.0.1/IBlock-Direct.png)
 
 - I블럭이 회전시 하단에 1칸의 공백이 생긴후 멈춰짐.
 
