@@ -1,4 +1,4 @@
-테트리스 버그 목록
+테트리스 버그 목록(version(0.0.1))
 
 ## 1. I블럭을 바로 이동시 블럭 하나가 삭제되는 현상<br>
 
@@ -28,15 +28,9 @@
 
 ## 5. 바로이동,아래로 이동시 바닥 충돌문제
 
-![block](image/version-0.0.1/bottomeLine.png)
+![block](image/version-0.0.1/bottomLine.png)
 
 - 바로이동시 하단에 막히지 않고 뚫고 내려가는 현상
-
-## 6. Iblock rotate 에러
-
-![block](image/version-0.0.1/IBlock-Direct.png)
-
-- I블럭이 회전시 하단에 1칸의 공백이 생긴후 멈춰짐.
 
 ---
 
